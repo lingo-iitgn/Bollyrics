@@ -5,6 +5,6 @@ Generate a Bollywood song using:
 ``` 
 git clone https://github.com/lingo-iitgn/Bollyrics.git
 cd Bollyrics/ngram_implementation
-python3 any_rhyme_sceme.py
+python3 any_rhyme_sceme.py #Give Rhyming scheme as the input
 ```
 
