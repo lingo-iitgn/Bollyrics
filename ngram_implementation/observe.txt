@@ -1,0 +1,316 @@
+kasam 408
+ ===> ['ki kasam _ 150']
+
+
+aa ho 413
+ ===> ['naa ho _ 307']
+
+
+ raat 415
+ ===> ['ki raat _ 122']
+
+
+b hai 417
+ ===> []
+
+
+a hua 418
+ ===> ['kyaa hua _ 152']
+
+
+o hai 425
+ ===> ['to hai _ 222']
+
+
+kahin 428
+ ===> []
+
+
+ mila 428
+ ===> []
+
+
+o tum 437
+ ===> ['ho tum _ 283']
+
+
+d hai 446
+ ===> []
+
+
+ hogi 454
+ ===> []
+
+
+haani 457
+ ===> []
+
+
+ar ke 458
+ ===> []
+
+
+ piya 464
+ ===> []
+
+
+ne do 465
+ ===> ['jaane do _ 116']
+
+
+s hai 475
+ ===> []
+
+
+ aayi 477
+ ===> []
+
+
+ lagi 481
+ ===> []
+
+
+ne de 489
+ ===> ['jaane de _ 182']
+
+
+chale 494
+ ===> []
+
+
+on se 496
+ ===> []
+
+
+jaane 500
+ ===> ['naa jaane _ 168']
+
+
+ai tu 502
+ ===> ['hai tu _ 497']
+
+
+ liya 515
+ ===> []
+
+
+kabhi 516
+ ===> []
+
+
+rahaa 518
+ ===> []
+
+
+o naa 521
+ ===> []
+
+
+i thi 521
+ ===> []
+
+
+ tere 549
+ ===> []
+
+
+ yaar 581
+ ===> ['mere yaar _ 188']
+
+
+ kiya 599
+ ===> []
+
+
+lagaa 622
+ ===> []
+
+
+r kaa 623
+ ===> ['pyaar kaa _ 242']
+
+
+ karo 631
+ ===> []
+
+
+ jaan 664
+ ===> ['meri jaan _ 360']
+
+
+ndagi 675
+ ===> ['hai zindagi _ 130']
+
+
+h hai 692
+ ===> ['saath hai _ 192']
+
+
+ aaya 696
+ ===> []
+
+
+ kare 713
+ ===> ['kyaa kare _ 123']
+
+
+ mere 730
+ ===> []
+
+
+mujhe 743
+ ===> []
+
+
+ lage 764
+ ===> []
+
+
+i hun 766
+ ===> []
+
+
+ hoga 766
+ ===> []
+
+
+ rahe 771
+ ===> []
+
+
+ teri 786
+ ===> []
+
+
+yenge 817
+ ===> []
+
+
+pyaar 837
+ ===> ['hai pyaar _ 140']
+
+
+e ham 879
+ ===> []
+
+
+ aaye 897
+ ===> ['naa aaye _ 210']
+
+
+e naa 903
+ ===> ['jaane naa _ 128', 'jaaye naa _ 146']
+
+
+ayega 907
+ ===> ['ho jaayega _ 160']
+
+
+a tha 939
+ ===> ['naa tha _ 107']
+
+
+ diya 964
+ ===> ['de diya _ 118', 'kar diya _ 135']
+
+
+ tera 970
+ ===> ['hai tera _ 118']
+
+
+m hai 987
+ ===> ['naam hai _ 193']
+
+
+l hai 1020
+ ===> []
+
+
+ liye 1050
+ ===> ['ke liye _ 371', 'mere liye _ 109', 'tere liye _ 268']
+
+
+sanam 1064
+ ===> ['hai sanam _ 151']
+
+
+ meri 1065
+ ===> ['hai meri _ 117']
+
+
+ gaye 1135
+ ===> ['ho gaye _ 218']
+
+
+jaana 1262
+ ===> ['naa jaana _ 228']
+
+
+ kyaa 1264
+ ===> ['hai kyaa _ 302', 'to kyaa _ 134']
+
+
+iyaan 1289
+ ===> []
+
+
+ mera 1393
+ ===> ['dil mera _ 159', 'hai mera _ 198']
+
+
+t hai 1472
+ ===> ['baat hai _ 305', 'mohabbat hai _ 146', 'raat hai _ 144']
+
+
+a hun 1545
+ ===> ['karata hun _ 156', 'rahaa hun _ 156']
+
+
+ gayi 1593
+ ===> ['aa gayi _ 148', 'ho gayi _ 421']
+
+
+r hai 2102
+ ===> ['pyaar hai _ 505']
+
+
+ahaan 2116
+ ===> ['hai kahaan _ 129']
+
+
+n hai 2267
+ ===> ['kahaan hai _ 132', 'main hai _ 101', 'mein hai _ 203']
+
+
+jaaye 2278
+ ===> ['ho jaaye _ 311', 'naa jaaye _ 258']
+
+
+ gaya 3371
+ ===> ['aa gaya _ 208', 'ho gaya _ 1123', 'kho gaya _ 274', 'mil gaya _ 203']
+
+
+ mein 3896
+ ===> ['pyaar mein _ 131']
+
+
+ main 4250
+ ===> ['hoon main _ 425']
+
+
+ nahi 4455
+ ===> ['bhi nahi _ 181', 'hi nahi _ 204', 'to nahi _ 236']
+
+
+e hai 4496
+ ===> ['jate hai _ 124', 'karte hai _ 250', 'lage hai _ 108', 'rahe hai _ 209']
+
+
+i hai 8129
+ ===> ['aati hai _ 230', 'aayi hai _ 107', 'baaki hai _ 101', 'bhi hai _ 278', 'gayi hai _ 149', 'hoti hai _ 249', 'jaati hai _ 397', 'karti hai _ 105', 'ki hai _ 117', 'lagi hai _ 184', 'lagti hai _ 133', 'nahi hai _ 717', 'rahi hai _ 444', 'si hai _ 115', 'zindagi hai _ 106']
+
+
+a hai 11433
+ ===> ['aata hai _ 234', 'aaya hai _ 152', 'deta hai _ 124', 'diya hai _ 160', 'gaya hai _ 273', 'hota hai _ 588', 'hua hai _ 244', 'jaana hai _ 251', 'jaata hai _ 355', 'karata hai _ 292', 'kiya hai _ 214', 'kyaa hai _ 619', 'lagaa hai _ 146', 'lagataa hai _ 409', 'nasha hai _ 138', 'rahaa hai _ 576', 'rakhaa hai _ 113', 'rehataa hai _ 232']
+
+
